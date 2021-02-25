@@ -5,3 +5,5 @@
       path: "/home/ansible/sample.txt
       state: touch
       chandrika gali
+      santh gali
+
